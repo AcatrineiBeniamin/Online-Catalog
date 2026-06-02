@@ -1,0 +1,24 @@
+[
+    {
+        "first_name": "Paul",
+        "last_name": "Ungureanu",
+        "email": "paul.ungureanu@student.com",
+        "phone": "0728111001",
+        "date_of_birth": "2008-06-12",
+        "address": "Pascani, Romania",
+        "parent_name": "Ion Ungureanu",
+        "parent_phone": "0748111001",
+        "status": "active"
+    },
+    {
+        "first_name": "Teodora",
+        "last_name": "Avram",
+        "email": "teodora.avram@student.com",
+        "phone": "0728111002",
+        "date_of_birth": "2009-09-21",
+        "address": "Bacau, Romania",
+        "parent_name": "Maria Avram",
+        "parent_phone": "0748111002",
+        "status": "inactive"
+    }
+]
