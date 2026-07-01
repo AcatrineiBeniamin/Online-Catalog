@@ -9,7 +9,7 @@
 
 <p>
     <a href="/students">
-        Vezi lista studenților
+        Vezi lista studenți
     </a>
 </p>
 
