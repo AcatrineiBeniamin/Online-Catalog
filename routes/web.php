@@ -11,3 +11,4 @@ Route::get('/students', [StudentController::class, 'index']);
 Route::get('/students/create', [StudentController::class, 'create']);
 Route::post('/students', [StudentController::class, 'store']);
 Route::get('/students/{student}', [StudentController::class, 'show']);
+Route::get('/students/{student}/edit', [StudentController::class, 'edit']);

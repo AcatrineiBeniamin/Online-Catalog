@@ -42,4 +42,11 @@ class StudentController extends Controller
     {
         return view('students.show', ['student' => $student]);
     }
+
+    public function edit(Student $student)
+    {
+        return view('students.edit', [
+            'student' => $student
+        ]);
+    }
 }
